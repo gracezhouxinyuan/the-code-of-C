@@ -1,9 +1,6 @@
 # The Code of C | C语言编程实践
 
 ![Language](https://img.shields.io/badge/Language-C-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-> 💾 这是一个记录 C 语言学习和实践的代码仓库，收集了各种经典编程问题、算法实现和基础代码练习。
 
 ## 📋 项目简介
 
